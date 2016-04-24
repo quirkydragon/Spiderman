@@ -1,0 +1,12 @@
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\bin\Release\Spiderman.exe.config
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\bin\Release\Spiderman.exe
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\bin\Release\Spiderman.pdb
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Release\MainWindow.baml
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Release\MainWindow.g.cs
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Release\App.g.cs
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Release\Spiderman_MarkupCompile.cache
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Release\Spiderman.g.resources
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Release\Spiderman.Properties.Resources.resources
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Release\Spiderman.csproj.GenerateResource.Cache
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Release\Spiderman.exe
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Release\Spiderman.pdb

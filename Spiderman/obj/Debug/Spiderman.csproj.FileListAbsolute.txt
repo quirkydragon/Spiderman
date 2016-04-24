@@ -1,0 +1,13 @@
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\bin\Debug\Spiderman.exe.config
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\bin\Debug\Spiderman.exe
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\bin\Debug\Spiderman.pdb
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\Spiderman.csprojResolveAssemblyReference.cache
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\MainWindow.baml
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\MainWindow.g.cs
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\App.g.cs
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\Spiderman_MarkupCompile.cache
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\Spiderman.g.resources
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\Spiderman.Properties.Resources.resources
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\Spiderman.csproj.GenerateResource.Cache
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\Spiderman.exe
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\Spiderman.pdb
