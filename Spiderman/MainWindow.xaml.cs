@@ -24,5 +24,7 @@ namespace Spiderman
         {
             InitializeComponent();
         }
+
+        public List<CheckedListItem> SearchParamCheckedList;
     }
 }

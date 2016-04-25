@@ -11,3 +11,5 @@ D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\Spid
 D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\Spiderman.csproj.GenerateResource.Cache
 D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\Spiderman.exe
 D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\Spiderman.pdb
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\StyleDictionary.baml
+D:\Jake\Documents\Visual Studio 2013\Projects\Spiderman\Spiderman\obj\Debug\App.baml

@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("Spiderman")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Quirky Dragon Technologies")]
 [assembly: AssemblyProduct("Spiderman")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCopyright("Copyright © Quirky Dragon Technologies 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
